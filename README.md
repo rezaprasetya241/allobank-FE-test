@@ -1,3 +1,11 @@
+# Requirements:
+- Node version v23.7.0
+- Vue 3
+- Vue Router
+- Pinia
+- Vuetify
+### Notes
+- I can't do hit/fetch POST(Create Rockets) endpoint cause i dont have a key to put on the 
 # Allo Bank Frontend Technical Assignment
 
 In this assignment, you’re assigned to create a website that displays rockets. This website only has two screens: rocket list screen and rocket detail screen. Here are the requirements:
